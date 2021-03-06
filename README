@@ -1,0 +1,5 @@
+This is one of my favorite projects i have done so far.
+It is a number guessing game. Computer "thinks" about a number. By "thinks" i mean uses random.randint() in python to choose random number.
+User tries to guess number computer chose. When he is correct computer will output "You did it!" and how many tries user needed. However, each time user fails computer will give him another try and a hint if user wants it.
+Hints are: range(range that the number is part of), greater/smaller(it tells user if the number he guessed is greater or smaller than the number computer chose), multiple(tells user if the number(that computer chose) is  multiple of 2,3,5 or 10), divisible(tells user if the number(that computer chose) is divisible with 2,3,5 or 10).
+This project is coded in python 3.8.5.
